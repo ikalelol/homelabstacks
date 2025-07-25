@@ -26,7 +26,7 @@ My personal homelab setup powered by Docker, focused on networking, system tools
 |              | [Plex](https://www.plex.tv/)                                         | Media Software to watch from multitude of devices |
 |              | [Jellyfun](https://jellyfin.org/)                                    | Alternate Media Software for friends that use Jellyfin |
 
----
+
 
 ###  Future Consideration List
 
