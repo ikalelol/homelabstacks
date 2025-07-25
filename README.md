@@ -43,7 +43,9 @@ My personal homelab setup powered by Docker, focused on networking, system tools
 | AI             | [OpenWebUI](https://github.com/open-webui/open-webui)                  | Self-hosted web interface for LLMs (like OpenAI, LM Studio, etc.)        |
 | Authentication | [Authentik](https://goauthentik.io/)                                   | Identity provider and SSO platform with OAuth2, SAML, LDAP               |
 | Networking     | [Traefik](https://traefik.io/)                                         | Reverse proxy and load balancer with dynamic config & TLS                |
+|                | [Wazuh](https://wazuh.com/)                                            | self hosted XDR and SEIM                                                 |
 | Home Automation| [Home Assistant](https://www.home-assistant.io/)                       | Local home automation hub for smart devices and IoT integration          |
+
 
 
 
